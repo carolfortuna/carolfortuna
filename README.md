@@ -1,5 +1,5 @@
  
-## Olá, me chamo Carolina 
+## Olá, me chamo Carolina Fortuna 💰
 Estou cursando um bootcamp de desenvolvimento web full-stack, e iniciando a parte de back-end.
 
 <div>
@@ -14,7 +14,7 @@ Estou cursando um bootcamp de desenvolvimento web full-stack, e iniciando a part
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  Utilizo as tecnologias: HTML, CSS, JavaScript e React (por enquanto!) 
+  Utilizo as tecnologias: HTML, CSS, JavaScript e React (por enquanto! 😋🤓) 
 </div>
 
 ##
