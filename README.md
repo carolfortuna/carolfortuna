@@ -1,6 +1,6 @@
  
 ## Olá, me chamo Carolina Fortuna 💰
-Estou cursando um bootcamp de desenvolvimento web full-stack, e iniciando a parte de back-end.
+Estou cursando um bootcamp de desenvolvimento web full-stack.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolfortuna&show_icons=true&theme=moltack"
